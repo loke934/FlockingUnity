@@ -11,3 +11,7 @@ basic behavior or a behavior with added rules.
 
 ![BehaviorsInspector](https://user-images.githubusercontent.com/76095991/204749025-35a684a2-7a1a-4508-a81c-a7665429da94.png)
 ![UnityBoids](https://user-images.githubusercontent.com/76095991/204749221-164c291e-d32b-4ecd-912a-cf75229f7951.gif)
+
+A simplified version was implemented with C++ and Unreal 5 for a game project. 
+
+![BoidUE5](https://user-images.githubusercontent.com/76095991/204750511-efb3f4d0-56fa-46c7-86ee-231e440fa999.gif)
