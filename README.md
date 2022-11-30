@@ -5,8 +5,8 @@ Scriptable objects were used for this, making it possible to change behavior in 
 basic behavior or a behavior with added rules. 
 
 - Has the three base rules of cohesion, alignment, and separation/avoidance. 
-- One rule for keeping the boids within a given radius. 
-- Filtered behavior making it possible for boids to distinguish other boids from other flocks, so not grouping with them and a filter to avoid obstacles. 
+- Option rule for keeping the boids within a given radius.
+- Filtered behavior options making it possible for boids to distinguish other boids from other flocks, so not grouping with them and a filter to avoid obstacles. 
 
 
 ![BehaviorsInspector](https://user-images.githubusercontent.com/76095991/204749025-35a684a2-7a1a-4508-a81c-a7665429da94.png)
